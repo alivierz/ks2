@@ -26,3 +26,9 @@ PORT =adicional si se quiere usar un puerto especifico pero el front esta conect
 ## el front
 
 el front es un front simple de angular que tiene conexion directa al back
+
+## como inciar
+
+Una vez creada la DB en postgres se debe hacer npm i en los 2 proyectos y correr los mismos
+
+npm run dev sera el comando para los 2 proyectos
