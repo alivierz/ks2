@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.item{
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+  width: 100%;
+  max-width: 90%;
+  margin: 0 auto;
+}
+

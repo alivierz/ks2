@@ -1,0 +1,20 @@
+{
+  "name": "back",
+  "version": "0.0.1",
+  "description": "back de prueba para ks2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon  --env-file=.env --trace-warnings --use_strict index.js"
+  },
+  "author": "alivier",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "pg": "^8.12.0",
+    "sequelize": "^6.37.3"
+  }
+}
