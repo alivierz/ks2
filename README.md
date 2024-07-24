@@ -21,4 +21,8 @@ y las variables de entorno son las siguientes
 DB_NAME = \_management
 DB_USER = postgres
 DB_PASS = claveDeUsuario
-PORT =adicional si se quiere usar un puerto especifico
+PORT =adicional si se quiere usar un puerto especifico pero el front esta conectado directamente al puerto 3001
+
+## el front
+
+el front es un front simple de angular que tiene conexion directa al back
